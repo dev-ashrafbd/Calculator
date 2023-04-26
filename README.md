@@ -5,7 +5,7 @@ This repository contains a simple calculator built using HTML and CSS. The calcu
 ## How to use the calculator
 - Clone this repository on your local machine using the command below:
 ```bash
-git clone https://github.com/dev-ashrafbd/Calculator.git
+git clone https://github.com/mdashraful305/Calculator.git
 ```
 - Open the index.html file in your web browser.
 
@@ -24,7 +24,7 @@ The repository's folder structure is as follows:
 
 ## Live View
 ```bash
-https://dev-ashrafbd.github.io/Calculator/
+https://mdashraful305.github.io/Calculator/
 ```
 
 ![alt text](/preview.png)
